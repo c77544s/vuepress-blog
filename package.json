@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "author": "超能虾米",
+  "description": "超能虾米的vuepress博客",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.14",
+    "@vuepress/theme-default": "^2.0.0-rc.40",
+    "vuepress": "^2.0.0-rc.14"
+  }
+}
